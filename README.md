@@ -2,8 +2,7 @@
 First challenge to modify given code and make web page more accessible for all users.
 
 ## User story
-AS A developer I want to create a code base that follows accessibiltiy standards
-SO THAT the site is optimized for search engines
+AS A developer I want to create a code base that follows accessibiltiy standards SO THAT the site is optimized for search engines
 
 ### Acceptance Criteria
 GIVEN a webpage meets accessibility standards
